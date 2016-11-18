@@ -17,7 +17,7 @@ classification by attempting to find a simple decision boundary, y = x^2 -
 compares several classifiers using different metrics - accuracy, F1, F1
 weighted, MCC, precision, recall, and confusion matrices.
 
-<img src="screenshots/classification.png" />
+<img src="screenshots/classifiers_800.jpg" />
 
 
 * [Clustering](Clustering/Clustering.ipynb) - Comparing the performance of
