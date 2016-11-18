@@ -1,27 +1,21 @@
 
 # Machine Learning
 
-Some notebooks to go along with the [Machine Learning Engineer Nanodegree (MLND) from Udacity](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009).
+Some notebooks to supplement the [Machine Learning Engineer Nanodegree (MLND) from Udacity](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009).
 
 
 ## Explorations
 
-Independent exploration of some machine learning algorithms.
+Exploration of some machine learning algorithms.
 
-* [Regression](Regression/Regression.ipynb)
-
-Exploring regression by attempting to match a simple function, y = sin(x) -
+* [Regression](Regression/Regression.ipynb) - Exploring regression by attempting to match a simple function, y = sin(x) -
 shows learning curves, complexity curves, bias and variance.
 
-* [Classification](Classification/Classification.ipynb)
-
-Exploring classification by attempting to find a simple decision boundary, y =
+* [Classification](Classification/Classification.ipynb) - Exploring classification by attempting to find a simple decision boundary, y =
 x^2 - compares several classifiers using different metrics - accuracy, F1, F1
 weighted, MCC, precision, recall, and confusion matrices.
 
-* [Clustering](Clustering/Clustering.ipynb)
-
-Comparing the performance of k-Means and Gaussian Mixture Model (GMM) Clustering
+* [Clustering](Clustering/Clustering.ipynb) - Comparing the performance of k-Means and Gaussian Mixture Model (GMM) Clustering
 on the labeled Iris dataset, using the adjusted Rand score - GMM is better able
 to match the actual clusters.
 
@@ -36,28 +30,28 @@ to match the actual clusters.
 <!-- ### Project 5: Capstone -->
 
 
-## Resources
+<!-- ## Resources -->
 
-### Sites
+<!-- ### Sites -->
 
-* [Machine Learning Mastery (Jason Brownlee)](http://machinelearningmastery.com/)
-* [Data School (Kevin Markham)](http://dataschool.io/)
-* [Scikit-Learn Notebooks (Jake Vanderplas)](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks)
-* [Data Science Notebooks (Donne Martin)](https://github.com/donnemartin/data-science-ipython-notebooks)
+<!-- * [Machine Learning Mastery (Jason Brownlee)](http://machinelearningmastery.com/) -->
+<!-- * [Data School (Kevin Markham)](http://dataschool.io/) -->
+<!-- * [Scikit-Learn Notebooks (Jake Vanderplas)](https://github.com/jakevdp/sklearn_tutorial/tree/master/notebooks) -->
+<!-- * [Data Science Notebooks (Donne Martin)](https://github.com/donnemartin/data-science-ipython-notebooks) -->
 
-### Nanodegree
+<!-- ### Nanodegree -->
 
-* [Are Udacity Nanodegrees worth it?](https://www.quora.com/Are-Udacity-Nanodegrees-worth-it-for-finding-a-job)
-* [MLND Slack channel](https://mlnd.slack.com/messages/general/)
-* [MLND Wiki](https://github.com/machinelearningnanodegree/MLND/wiki)
-* [MLND Support](mailto:machine-support@udacity.com)
-* [MLND File an Issue](https://udacity.zendesk.com/hc/en-us/requests/new)
+<!-- * [Are Udacity Nanodegrees worth it?](https://www.quora.com/Are-Udacity-Nanodegrees-worth-it-for-finding-a-job) -->
+<!-- * [MLND Slack channel](https://mlnd.slack.com/messages/general/) -->
+<!-- * [MLND Wiki](https://github.com/machinelearningnanodegree/MLND/wiki) -->
+<!-- * [MLND Support](mailto:machine-support@udacity.com) -->
+<!-- * [MLND File an Issue](https://udacity.zendesk.com/hc/en-us/requests/new) -->
 
-### Articles
+<!-- ### Articles -->
 
-* http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html
-* https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization
-* https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
-* http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+<!-- * http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html -->
+<!-- * https://www.quora.com/What-is-the-difference-between-L1-and-L2-regularization -->
+<!-- * https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/ -->
+<!-- * http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/ -->
 
 
