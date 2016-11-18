@@ -8,16 +8,21 @@ Some notebooks to supplement the [Machine Learning Engineer Nanodegree (MLND) fr
 
 Exploration of some machine learning algorithms.
 
-* [Regression](Regression/Regression.ipynb) - Exploring regression by attempting to match a simple function, y = sin(x) -
-shows learning curves, complexity curves, bias and variance.
+* [Regression](Regression/Regression.ipynb) - Exploring regression by attempting
+to match a simple function, y = sin(x) - shows learning curves, complexity
+curves, bias and variance.
 
-* [Classification](Classification/Classification.ipynb) - Exploring classification by attempting to find a simple decision boundary, y =
-x^2 - compares several classifiers using different metrics - accuracy, F1, F1
+* [Classification](Classification/Classification.ipynb) - Exploring
+classification by attempting to find a simple decision boundary, y = x^2 -
+compares several classifiers using different metrics - accuracy, F1, F1
 weighted, MCC, precision, recall, and confusion matrices.
 
-* [Clustering](Clustering/Clustering.ipynb) - Comparing the performance of k-Means and Gaussian Mixture Model (GMM) Clustering
-on the labeled Iris dataset, using the adjusted Rand score - GMM is better able
-to match the actual clusters.
+<img src="screenshots/classification.png" />
+
+
+* [Clustering](Clustering/Clustering.ipynb) - Comparing the performance of
+k-Means and Gaussian Mixture Model (GMM) Clustering on the labeled Iris dataset,
+using the adjusted Rand score - GMM is better able to match the actual clusters.
 
 
 <!-- ## Nanodegree -->
